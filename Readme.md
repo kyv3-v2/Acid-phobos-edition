@@ -1,1 +1,1 @@
-go follow https://github.com/itsmoondog he is the original owner of acid but never released it, so he made me owner to make it revive, i made this on my own btw and with the help of some of the devs
+* go follow https://github.com/itsmoondog he is the original owner of acid but never released it, so he made me owner to make it revive, i made this on my own btw and with the help of some of the devs
